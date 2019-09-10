@@ -48,9 +48,9 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
-  display: block;
+  display: inline-block;
   width: 100%;
-  /*vertical-align: top;*/
+  vertical-align: top;
 }
 
 /* create your tile classes! we recommend .small .med .large */
